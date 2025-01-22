@@ -23,7 +23,7 @@ const ExportSection = ({ direction, colors }) => {
       html: `<span style="color: #ffffff;">CSS telah berhasil dicopy ke clipboard!</span>`,
       icon: "success",
       background: "#13124F",
-      timer: 4000,
+      timer: 2000,
       showConfirmButton: false,
     });
   };
@@ -34,7 +34,7 @@ const ExportSection = ({ direction, colors }) => {
       html: `<span style="color: #ffffff;">Tailwind CSS telah berhasil dicopy ke clipboard!</span>`,
       icon: "success",
       background: "#13124F",
-      timer: 4000,
+      timer: 2000,
       showConfirmButton: false,
     });
   };
